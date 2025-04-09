@@ -2,7 +2,6 @@
 
 
 # Automated Network Scanner
-![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/main.PNG)
 
 Automated Network Scanner is a Python-based script designed for network exploration and security auditing. This automated scanner simplifies the process of scanning local networks, allowing users to identify active hosts, open ports, running services, and potential vulnerabilities. It integrates the power of NMAP, a renowned network scanning tool, into an interactive and user-friendly interface.
 
@@ -21,20 +20,18 @@ Automated Network Scanner is a Python-based script designed for network explorat
 
 **Multiple Scan Options:**
 
-![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn1.PNG)
 - **Scan for Open Ports:** Identifies all active hosts with open ports.
 
  
- ![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn2.PNG)
+
 
 - **Scan First 1000 Ports:** Determines running services on the first 1000 ports of active hosts.
 
   
-![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn3.PNG)
+
 - **Comprehensive Scan:** Scans all open ports on all active hosts, checking for vulnerabilities in running services.
 
 
-![GitHub Logo](https://github.com/Aleem20/Automated-Network-Scanner/blob/main/images/sn4.PNG)
 - **Scan Vulnerabilities:** Identifies potential vulnerabilities on services running on the first 1000 ports of active hosts.
 
 I will be adding more scanning options in the future.
@@ -51,7 +48,7 @@ Make sure to install Python and NMAP before running this script.
 
 This script could be run on Windows or Linux systems. 
 ```bash
-git clone https://github.com/Aleem20/Automated-Network-Scanner.git
+git clone https://github.com/Aayushkumr/Automated-Network-Scanner.git
 cd Automated-Network-Scanner
 python3 ANscanner.py
 ```
