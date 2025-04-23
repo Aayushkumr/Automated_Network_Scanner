@@ -11,7 +11,7 @@ def generate_banner(tool_name):
                * Warning: This tool is intended for educational *
                *               purposes only!                   *
                *                                                *
-               *            https://github.com/Aleem20          *
+               *            https://github.com/Aayushkumr       *
                *                                                *
                *  Read more about NMAP at: https://nmap.org/    *    
                **************************************************
